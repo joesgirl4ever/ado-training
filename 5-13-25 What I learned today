@@ -1,0 +1,21 @@
+## Date: {{5-13-25}}
+
+### What I Learned Today
+- Learned about the shell
+- First commands:
+- up arrow: command history
+- down arrow: previous command
+- left & right arrows: navigate anywhere on cmd line
+- you can copy & paste with a mouse! click & drag over desired copy, (copies into buffer). find desired paste location & click middle mouse button there to paste
+- NOTE: ctrl + c & v do not work!
+- think about: in window manager, changing to "focus follows mouse" (makes the copy/paste easier)
+- date: gives date, time
+- cal: calendar - current month
+- NOTE: even if you are not in a terminal emulator (te), some te's run behind the desktop. these are virtual sessions
+- ACCESS VIRTUAL SESSIONS BY: ctrl + alt + f1 thru f6 - when it comes up, put in your username & pw
+- VIRTUAL SESSIONS allow you to work on multiple things simultaneously- (press alt + f1 - f6 to switch between them)
+- to get out of a virtual session: (most) alt + f7
+- look for free space on drive: df
+- check for free memory: free
+- close te session: exit (like DOS!) :)
+### Commands
