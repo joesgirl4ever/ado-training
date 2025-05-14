@@ -1,0 +1,44 @@
+## Date: {{5-14-25}}
+
+### What I Learned Today
+- LINUX NAVIGATION
+-Hierarchical dir structure
+-first dir: root
+-single file system tree- not like windows
+-storage mounted wherever sys admin wants (not forced, like win)
+-cmd line, no gui, so imagine that this is an upside-down tree that we can stand in the middle of
+-above are the parent dir's
+-below are the subdir's
+-dir you are in is the "current working dir"
+-to display cwd: pwd (print working dir)
+-when you log in, you arrive at "home"
+-each user given its own home dir
+-only place a regular user can write anything (if you're an admin, diff story)
+-list contents of dir: ls
+-change dir: cd
+-2 types of paths- 
+-absolute: begins at root, goes branch by branch
+-relative: starts from wkg dir, not root
+-special notations to represent relative POSITION in file system (tree)
+-1) dot (.)
+-(2) dot dot (..)
+-to go to parent dir, cd.. (then pwd) to show contents
+-to chg dir's: cd (dirname) - no paren.
+-if no spec. pathname, then wkg. dir assumed
+-FILENAMES
+-file names that begin with a "." are hidden
+-on hidden files, ls will not work unless you use "ls-a"
+-when a user act is created, several hidden files are placed in your dir
+-FILE NAMES in Linux are CaSe SeNsItIvE!
+-NO SPACES in file names! (you don't want to know what could happen :( )
+-characters are limited to: periods, dashes & underscores (can be used as spaces)
+-NO FILE EXTENSIONS (like win)
+-SHORTCUTS:
+-cd: chgs wkg dir to home dir
+-cd-: chgs wkg dir to prev. dir
+-cd~user_name: goes to user's home dir
+-===============================================
+-EXPLORING THE SYSTEM:
+-ls /directory: specifies a dir
+-ls~ /usr: can show multiple dir's- in this case, my "home" dir & the "usr" dir
+### Commands
