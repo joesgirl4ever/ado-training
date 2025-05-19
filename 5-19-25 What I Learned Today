@@ -3,4 +3,19 @@ te## Date: {{5-19-25}}
 ### What I Learned Today
 -Created blog on Wix today: https://manage.wix.com/dashboard/e60257e1-9944-40e5-b105-0398b32b840b/blog/41d4c6b0-ce9e-44f6-a033-f3ccf567105f/edit
 -Increased LinkedIn connections today, many via KubeCraft group
+-AZ900 training: Benefits of using cloud services (HA & scalability)
+-Reliability vs. Predictability
+-Security & governance in the cloud
+-Management of the cloud vs. in the cloud
+-IaaS vs. PaaS vs. Saas
+-Core architecture components of Azure
+-Created free Azure account, accessed Azure Portal
+-Navigation of the portal
+-Explored free "Sandbox" environment
+-Used multiple CLI's
+-Regions
+-Availability Zones
+-Unboxed and charging new Windows laptop (to remote into homelab)
+-Got charing cables for (2) homelab laptops connected, charging for initial set-up
+-Saw KubeCraft team recommendations for Linux certs- start with LPIC-1
 ### 
