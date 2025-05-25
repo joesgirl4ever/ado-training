@@ -1,0 +1,11 @@
+## Date: {{5-25-25}}
+
+### What I Learned Today
+-Instead of continuing on Azure Fundamentals today, I was reminded to begin setting up my homelab, per Mishca's instruction.
+-Last AZ Fund. status: Having trouble with JSON. Need to evaluate. Shell session in Sandbox timing out as well- coming back at it Monday.
+-Attempted to get my new (refurbished) Windows laptop up for the first time so I can burn Ubuntu to a thumb drive and get Linux installed onto either that machine or one of the lab laptops.
+-Fired up the laptop for the first time and discovered that the previous owner's image, (State of Oklahoma), was still loaded on the laptop! It was requiring a password immediately after boot.
+-Unfortunately, Dell refurbished is OoO for the weekend, and tomorrow is a holiday, so I can't get any help until Tuesday, 5/27 :(.
+-I could try to rip the image off and boot in safe mode, but I paid for the Win 10 OS on it, and I need that.(Would not be loaded on other profile I would have to create).
+-Reviewed the new parts of CV, Interview and Softskills in Mischa's KubeCraft Skool.
+-Will go back to Azure Fundies on MSFT Learn after running an errand and solve that problem with the JSON.
