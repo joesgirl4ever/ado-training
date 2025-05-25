@@ -5,4 +5,20 @@
 -Continuing Azure Devops training for AZ900 certificaiton on MSFT Learn
 -Using Rocketbook for notes (loving this tool- handwriting helps me retain, but then I can save digitally)
 -Also using Mischa van den Burg's (Kubecraft) article: "The Tech Professional's Guide to Accelerated Learning"
+-Azure Compute & Networking Services
+-Virtual machines: Ideal for total control over OS, running custom sw, custom hosting config.
+-Can use pre-existing image to rapidly configure VM's, use scale sets to create & manage group of identical VM's
+-Availability sets- prevents loss of all VM's due to network or power failure
+-Availability sets group VM's- Update domain & fault domain
+-Update domains are groups of Vm's that can update at the same time
+-Fault domains group VM's by common power source & network switch
+-By default, availability groups are split into 3 fault domains to protect against outages
+-You can use VM's to run apps in the cloud, extend from on-prem DC to cloud, disaster recovery
+-Lift & shifts (DC to cloud)
+-When you provision a VM, you need to pick the resources associated to it: Size: purpose, # of processors, RAM
+-Storage: Hard disks, solid state dr's, etc.
+-Networking: virtual, public IP, port config.
+-Exercise: Create Linux VM & install Nginx on it
+-Last status: Having trouble with JSON. Need to evaluate. Shell session in Sandbox timing out as well- coming back at it tomorrow.
+
 
