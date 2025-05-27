@@ -1,0 +1,30 @@
+## Date: {{5-26-25}}
+
+### What I Learned Today
+-Not able to contact the refurbished laptop provider about the image problem on the laptop I purchased, so going back to AZ 900 training.
+-Azure containers- Use containers if you want to run multiple instances of an app on a single host.
+-Containers are lightweight, can be scaled out, can be stopped dynamically.
+-Can respond to changes on demand.
+-One of the most popular container engines is Docker.
+-VM's virtualize the hardware, containers virtualize the OS.
+-Containers can be managed by container cluster orchestration.
+-How to decide: VM or container?  If you need full control of the environment, then you need a VM.
+-Azure containers are PaaS. You upload the container, then the service runs the containers for you.
+-AZ container apps: remove the container mgmt. piece.
+-Container apps have extras, like LB & scaling.
+-Azure Kubernetes Service: (AKS)- Container Orch. Service
+-Manages the lifecycle of containers.
+-When deploying a fleet of containers, can make fleet mgmt easier.
+-Containers are used to create solutions by using a microservice arch.
+-You can split a website- container for front end, back end, storage.
+-THEN, you can maintain, scale & update them independently.
+-Azure Virtual Desktop- looks like local hw desktop & apps for users.
+-Can be deployed across many devices & works with apps that you can use to access remote desktops or most browsers.
+-Desktop & apps run purely in the cloud.
+-Can run multiple, concurrent users on a single VM.
+-Back to containers:
+-If you have a website front end, back and storage in seperate containers, you can do different things to each, and it's perfectly fine- no ill effects!
+-Azure Functions: Purely event-driven. Not activated until you have one. Scales automagically based upon demand.
+-Stateless is default- W/ every event, takes no history into context.
+-Stateful: (Durable Functions)- it can track prior event activity.
+-End for day
