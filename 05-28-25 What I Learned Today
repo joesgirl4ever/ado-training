@@ -1,0 +1,31 @@
+## Date: {{5-28-25}}
+
+### What I Learned Today
+-Azure Application Hosting Options
+-Azure App Service
+-Build & host web apps, run background jobs, mobile back-ends, RESTful API's
+-Auto-scaling & HA
+-For Win or Linux
+-Enables auto-deploy from: Github, ADO, Git repo's (continuous)
+-AAS keeps app up & running while you focus on building & maintaining app
+-HTTP-based service for hosting web apps, REST API's & mobile back-ends
+-Multiple languages: .NET, .NET Core, Java, Ruby, Node.js, PHP, Python
+-Deployment & management integrated into platform
+-Endpoints can be secured
+-Sites can be scaled quickly to handle high traffic
+-Built-in LB & HA
+-IDEAL for web-oriented apps
+-Swagger support
+-Pkg & publish API's in AZ marketplace
+-Consumed by any HTTP or HTTPS client
+-Webjobs: Run a prog -can be scheduled or triggered (.exe, Java, PHP, Python or Node.js)
+-Run a script: .cmd, .bat, PowerShell or Bash)
+-Run in background as part of app logic
+-Mobile apps: Quickly build back-end for iOS & Android
+-Store mobile data in cloud-based SQL DB
+-Auth customers against socials: Goog, X, FB, etc.
+-Send push notif's
+-Exec custom logic in back-end: C# or Node.js
+-SDK support (tool kits) for iOS, Android, Xamarin, React.
+-End of study
+
