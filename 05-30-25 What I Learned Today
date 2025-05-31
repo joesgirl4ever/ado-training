@@ -1,1 +1,38 @@
+## Date: {{5-30-25}}
+
+### What I Learned Today
+-Azure Fundamentals
+-Route network traffic
+-AZ routes traffic betw. subnets on any connected virtual netwks, on-prem & web
+-Can be overriden- routing tables, can create custom ones
+-Has BGP, works with: AZvpn gtwys, route server, ExpressRoute > propogate on-prem bgp routes to az networks
+-can filter network traffic- betw. subnets via netwok security groups
+-based upon source or dest. ip, or port, protoocol
+-server: 8080
+-proxy: 8081
+-SQL: 1433, 1434, 2382,2383,80
+-network virt. appliances- like hw.
+-runs firewall, WAN opt.
+-connecting virtual netwks:
+-virt. ntwk peering
+-traff. betw. peers is private, MS backbone, never on web
+-peered virt. ntwks can be in diff regions
+-can connect globally, thru az
+-user defined routes- controls tables betw. subnets, allows for greater traff. flw ctrl
+-config. network access
+-JSON issue with extention used to install Nginx in vm- parsed by shell
+-found tool: https://jsonlint.com. will investigate >>>
+-az private networks:
+-vpn uses encrypted tunnel in another network
+-usually used to connect 2 or more trusted private ntwks
+-vpn gatewy- deployed in dedicated subnet of the virt. ntwk
+-site-to-site: on-prem to dc's
+-point-to-site: indiv. device to virt. ntwk
+-netwk-to-netwk: conn. virt. ntwk to virt. ntwk
+-note: only 1 vpn van be deployed in a virt. netwk.
+-however, that one vpn can connect to multiple locations
+-when setting up vpn, must be either: policy-based or route-based
+-in az, authentication is pre-shared key
+-policy-based vpn: static ip for encryption
+-End
 
