@@ -1,0 +1,17 @@
+## Date: {{5-31-25}}
+
+### What I Learned Today
+-Azure Fundamentals - Storage: 
+-Azure Files: Fully mg'd, scripting + tuning, resilient, familiar for dev's
+-Azure Queues: For storing large #'s of messages- HTTP & HTTPS, up to 64K in size, commonly used to create backlog for analysis
+-Azure Disks: Block-level storage volumes (one size, each w/ own address, for use w/ AZ VM's- same size as phys disk, but virtual
+-Azure Tables: Store large amts of structured data, but NOT like rel. db- key value pairs, wide columns, graphs, docs (non-relational)
+-AZ Data Migration Options:
+-AZ Migrate: migrate from on-prem to cloud, hub to mg assessmt & migration
+-AZ Migrate Tools: Discovery & assessmt, server migration, VMW, HYper-v, phys servers, other virtual servers, public cloud vm's
+-AZ App Service migration assistant: Stand-alone-  Assesses SQL servers (helps w/ migration issues)- SQL Srvr, AZ SQL DB, SQL Mg'd Instances (db mgmt)
+-AZ Data Box: Move lg amts of offline data to az. MS ships you device- 80TB max, you ship back after upload/dwnld. Useful for DR, initial blk upload.
+-Az File Movement Options: Indiv. files, small file groups
+-AZ Copy: CLI- copies blobs or files to/from storage- sync is one-way.
+-AZ File Sync:Kinda like a file server in az. Stays bi-directionally synced.
+-End for day
