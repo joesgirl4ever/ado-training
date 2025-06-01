@@ -1,0 +1,10 @@
+## Date: {{06-01-25}}
+
+### What I Learned Today
+-Microsoft Purview: Manage data, protect it from threats, and comply with relevant regulations. 
+-Azure Policy: Make sure that resource is compliant re: your business regardless of who made changes
+-Resource locks: Can lock an Azure subscription, resource group, or resource to protect them from accidental user deletions and modifications.
+-Service Trust Portal: Public site for publishing audit reports and other compliance-related information associated with Microsoft's cloud services.
+-Completed all AZ-900 cert. training modules
+-Took first practice exam- passed w/ a 74% (Passing = 70%).
+-Need to keep studying and take more practice exams to get a higher average score.
