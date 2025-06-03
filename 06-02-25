@@ -1,4 +1,25 @@
 ## Date: {{06-02-25}}
 
 ### What I Learned Today
--
+-Linux review:
+-cd = change dir
+-pwd = print wkg dir
+-file = what type of data a file contains
+-curl = non-interactive web brwsr for terminal
+-cat = concatenate- dumpt contents of a text file to your terminal
+-find = find files, also w/ variety of filters
+-tar = compressed archive like zip
+-zip / unzip = compression
+-more, less, most = view contents of a file, with paused output
+-ssh = username@ip to connect to remote system
+-mv = move and rename a file
+-sudo = manage privileges
+-dnf = install on RHEL (no graphical)
+-search = search for command by name
+-alias = turn long commands into easy shortcuts
+-clear = clear the screen
+-grep = search contents of a file
+-pgrep = search for PID
+-setfacl =  create an ACL
+-nc = can connect to a port, like telnet
+-End
