@@ -1,1 +1,15 @@
+## Date: {{06-08-25}}
+
+### What I Learned Today
+-Just received Windows laptop to use to remote into homelab (once built).
+-Setting up and identifying process via KubeCraft instructions/recommendations.
+-Initializing Windows laptop
+-Good news is that this laptop actually has the correct build- this time! (Had to send original one back- old customer load still present)
+-Interesting experience wading through a consumer load of Windows- been a long time. (Mac user for personal)
+-Got OS up, connected to network, loaded Chrome.
+-Applied Windows updates
+-Download Rufus to get Ubuntu Desktop onto bootable thumb drive
+-Loading Ubuntu using 512GB drive
+-Load successful
+
 
