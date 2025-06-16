@@ -4,10 +4,9 @@ COMMANDS:
 - left & right arrows: navigate anywhere on cmd line
 - date: gives date, time
 - cal: calendar - current month
-- NOTE: even if you are not in a terminal emulator (te), some te's run behind the desktop. these are virtual sessions
-- ACCESS VIRTUAL SESSIONS BY: ctrl + alt + f1 thru f6 - when it comes up, put in your username & pw
-- VIRTUAL SESSIONS allow you to work on multiple things simultaneously- (press alt + f1 - f6 to switch between them)
-- to get out of a virtual session: (most) alt + f7
-- look for free space on drive: df
-- check for free memory: free
-- close the session: exit (like DOS!) :)
+- te: NOTE- even if you are not in a terminal emulator (te), some te's run behind the desktop. these are virtual sessions
+- alt + f1 - f6: VIRTUAL SESSIONS allow you to work on multiple things simultaneously- ( when it comes up, put in your username & pwpress alt + f1 - f6 to switch between them)
+- alt + f7: to get out of a virtual session: (most) 
+- df: look for free space on drive
+- free: check for free memory 
+- exit: closes the session(like DOS!) :)
