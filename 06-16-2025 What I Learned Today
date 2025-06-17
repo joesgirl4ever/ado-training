@@ -1,0 +1,34 @@
+## Date: {{6-16-25}}
+
+### What I Learned Today
+-LINUX STUDIES
+-Current kernel: 2.xxx (1996)
+-Distro's are bundles of apps & tools
+-Basically, everything is case-sensitive
+-$ prompt for normal users
+-# prompt for root, or super users
+-Can vary by Distro, but usually these two
+-PW changes: Root user can always change anyone's pw- other users may only chg their own
+-passwd: To change pw. You'll get prompted for the old one, (unless you are root, then you have to specify the user who's pw you want to change
+-Then, once old pw entered, you have to type new one in twice. You'll get ack when successful.
+-logout (or exit): logs you out. Remember to do this when done!
+-The shell: Can run scripts in here,(Bourne Again Shell = bash)= DEFAULT shell in Linux (C shell is for those versed in c)
+-/bin: shells live in here
+-Shells are not cross-compatible
+-echo $SHELL: find what shell is. (Results will look like: "/bin/bash", etc. Other shells might display.
+-General syntax in any shell: command [options] [parameters]
+-Command: What you want to do
+-Options: (Aka: switches), modify the behavior of the command, typically proceeded by a hyphen (-).
+-Parameters: (Aka: arguments), = data or files the command needs to act on or with.
+-NOTE: Multiple commands can be run on one line, separated by a semi-colon (;). Ex: "who;uptime"
+-Users & Groups: (3) primary commands: 
+-useradd
+-usdermod 
+-userdel
+-All user info stored in: etc/passwd, except for the user's encrypted pw.
+-All pw info is stored in: etc/shadow.
+-Group info: Stored in: etc/group, EXCEPT FOR user's primary group, which is stored in: etc/passwd.
+-Syntax to use all 3: command [option(s)] username.
+- Common for useradd: -g <group name or number>, (user's primary group), -G <group name or number> Other groups the user belongs to.
+- useradd: 
+### 
