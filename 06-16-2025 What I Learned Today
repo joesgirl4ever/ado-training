@@ -29,6 +29,9 @@
 -All pw info is stored in: etc/shadow.
 -Group info: Stored in: etc/group, EXCEPT FOR user's primary group, which is stored in: etc/passwd.
 -Syntax to use all 3: command [option(s)] username.
-- Common for useradd: -g <group name or number>, (user's primary group), -G <group name or number> Other groups the user belongs to.
-- useradd: 
+-Common for useradd: -g <group name or number>, (user's primary group), -G <group name or number> Other groups the user belongs to.
+-Also for useradd: -m creates home dir if it doesn't already exist
+-Also for useradd: -u <UID> user ID, default is next available.
+-For usermod: all as with add, but no -m. (Also -l switch to change user's login name.'
+-For userdel: Only one switch: -r, which will remove user's home dir & everything in it! (Check the contents FIRST!)
 ### 
