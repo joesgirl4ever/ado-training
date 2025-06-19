@@ -1,1 +1,25 @@
+## Date: {{6-18-25}}
+
+### What I Learned Today
+-Linux (via LabEx)
+-Opening the terminal
+-Using the terminal
+-echo: prints text
+-whoami: current user
+-id: displays user & group info
+-sudo apt install (then put app name): installs the app
+-htop: system process viewer (more feature-rich than top)
+-pwd: (print working directory)- your current location in the file system
+-ls: see contents of current directory
+- ~: home directory
+-touch: creates an empty file
+- > redirects output of echo to a file (Putting filename after it either updates contents or creates it)
+- . prefacing filename hides it
+-mkdir: creates directory
+-ls -a: shows hidden files
+-ls -la: shows all files in long format
+-cp: copy a file
+- -r: recursive- must use when copying directories (so everything's copied)
+###
+
 
