@@ -1,0 +1,32 @@
+## Date: {{6-22-25}}
+
+### What I Learned Today
+-Linux kernel
+-From Mischa's Classroom: YT: freeCodeCamp.org 
+- * * * Intro to Linux -Full Course for Beginners * * *
+-Chapter 1:
+-Linux families
+-Hundreds of distro's
+-3 major families: Red Hat Family systems, SUSE family, Debian family
+-RHEL: (pron. "rell")- Most popular in ent. env's
+- - Fedora- CentOS, Oracle Linux
+- Fedora is upstream testing platform
+-CentOS is a close clone of RHEL
+-yum package manager
+-SUSE (soosee)
+-SLES upstream for openSUSE
+-RPM-based zypper package manager
+-YaST for sys admin
+-Widely used in retail
+-Debian
+-Upstream for Ubuntu
+-Servers and desktops
+-Most complete sw repository
+-Ubuntu- long term stability & ease of use
+-DPKG-based APT package manager
+-Widely used for cloud deployments
+-GNOME-based but differs visually
+-At end of chapter, I should be able to:
+-Define common Linux terms & discuss Linux distro's
+
+
