@@ -1,0 +1,40 @@
+## Date: {{6-23-25}}
+
+### What I Learned Today
+-Intro to Linux course
+-Help files built into Linux: In shell: man <topic>
+-Enabled Windows Subsystem for Linux on my Windows 10 laptop
+-Reboot
+-Installed Ubuntu Desktop
+-Success! :D
+-Documents: https://help.ubuntu.com
+-Mgmt: https://landscape.canonical.com
+-Support: https://ubuntu.com/pro
+-UBUNTU:
+-root, sudo for admin tasks
+-ls -al: see all files in dir in long format
+-ls /mnt: see all machine drives (Interestingly, beside C, I saw the WSL mounted)
+-Went to go look at my Win C drive from the shell :)
+-cd /mnt/c: go look at c drive
+-clear: clear screen
+-cd users
+-ls -al: see all files in dir, long form
+-looked at Windows desktop from shell
+-touch test.txt
+-created text file on win desktop! :)
+-rm test.txt- removed it :)
+-FOO: Geek speak for when user has choice about what to enter
+-man <topic>: manuals within the distro
+-TERMINOLOGY:
+-kernel: glue between hw & apps
+-distribution: collection of sw making up a Linux OS
+-boot loader: program that boots the OS (intermediary betw. BIOS (firmware) and OS (GRUB, Isolinux)
+-Service: program that runs as a background process: httpd, nfsd, ntpd, ftpd ("d" = daemon)
+-filesystem: method for storing & organizing files: (ext3, ext4, FAT, NTFS, etc.)
+-X Window System: Graphical subsystem on nearly all Linux systems
+-GUI: Desktop, KDE, Gnome, Windows Mgr, X Window System, XII
+-CONSOLE: CLI/shell, Kernel, hardware
+-Desktop Environment: (GUI): GNome, KDE, Xfce, Fluxbox
+-Shell: CLI interpreter
+###
+
